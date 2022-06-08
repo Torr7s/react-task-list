@@ -7,7 +7,6 @@ This project was developed as a Rocket Seat challenge, on the ReactJs trail.
 - Add and remove tasks
 - Mark Tasks as Complete
 
-
 ## Running locally
 
 Clone the project 
@@ -34,8 +33,7 @@ Run the server
   npm run dev
 ```
 
-
-## Aprendizados
+## Learnings
 
 In this project I was challenged to create a list of tasks, which could be added and removed.
 
